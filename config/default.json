@@ -1,0 +1,12 @@
+{
+  "server": {
+    "port": "3000"
+  },
+  "db": {
+    "username": "root",
+    "password": "",
+    "host": "localhost",
+    "port": "27017",
+    "name": "fp_amazon"
+  }
+}
