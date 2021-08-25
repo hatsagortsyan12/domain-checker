@@ -6,7 +6,8 @@
     "username": "root",
     "password": "",
     "host": "localhost",
-    "port": "27017",
-    "name": "fp_amazon"
+    "port": "3306",
+    "name": "domain_checker",
+    "pool_limit": 10
   }
 }
